@@ -1,0 +1,15 @@
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\obj\Debug\net6.0\ModelMeThis-Football.csproj.AssemblyReference.cache
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\obj\Debug\net6.0\ModelMeThis-Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\obj\Debug\net6.0\ModelMeThis-Football.AssemblyInfoInputs.cache
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\obj\Debug\net6.0\ModelMeThis-Football.AssemblyInfo.cs
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\obj\Debug\net6.0\ModelMeThis-Football.csproj.CoreCompileInputs.cache
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\bin\Debug\net6.0\ModelMeThis-Football.exe
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\bin\Debug\net6.0\ModelMeThis-Football.deps.json
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\bin\Debug\net6.0\ModelMeThis-Football.runtimeconfig.json
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\bin\Debug\net6.0\ModelMeThis-Football.dll
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\bin\Debug\net6.0\ModelMeThis-Football.pdb
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\obj\Debug\net6.0\ModelMeThis-Football.dll
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\obj\Debug\net6.0\refint\ModelMeThis-Football.dll
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\obj\Debug\net6.0\ModelMeThis-Football.pdb
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\obj\Debug\net6.0\ModelMeThis-Football.genruntimeconfig.cache
+C:\Users\wow08\Desktop\Uni stuff\C# OOP\ModelMeThis-Football\ModelMeThis-Football\obj\Debug\net6.0\ref\ModelMeThis-Football.dll
